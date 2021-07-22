@@ -1,0 +1,212 @@
+
+*{
+	margin : 0;
+	padding: 0;
+	font-family: Century Gothic;
+	color: #000;
+}
+header
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/back.jpg);
+	height: 31em;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position:relative;
+}
+
+.navbar
+{
+	background-color: #009631 !important;
+}
+.nav-item .nav-link
+{
+	color: #fff !important;
+}
+.nav-item .nav-link:hover
+{
+	color: #ccc !important;
+}
+
+.btn-outline-gold
+{
+	background-color: #cc9933;
+	color: #fff;
+}
+
+.button-area
+{
+	clear:both;
+	top: 70%;
+	position: absolute;
+	padding:5px;
+	left: 50%;
+	transform: translate(-50%,-70%);
+}
+.title-area
+{
+	clear:both;
+	top: 50%;
+	position: absolute;
+	padding:5px;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title-area h1
+{
+	color:#fff;
+	font-size: 90px;
+}
+button
+{
+	background-color: none;
+	border:none;	
+	padding: 6px 18px;
+	color: #fff;
+	font-weight:bold;
+	text-align: center;
+	font-size: 120%;
+
+}
+
+.button-area a
+{
+	background-color: none;
+	border:none;	
+	padding: 6px 18px;
+	color: #fff;
+	font-weight:bold;
+	text-align: center;
+	font-size: 120%;
+
+}
+
+.btn-get
+{
+	background-color: #009631;
+}
+.btn-log
+{
+	background-color: #fff;
+	color: #009631 !important;
+}
+.btn-get:hover
+{
+	background-color: #cc9933;
+	color: #fff;
+}
+.btn-log:hover
+{
+	background-color: #cc9933;
+	color: #fff !important;
+}
+
+.container{
+	width: 99%;
+	height:auto;
+	padding: 5px;
+}
+
+.centred
+{
+	text-align:center;
+	padding: 5px 90px;
+}
+.no-radius
+{
+	border-radius:0;
+}
+.upper-button
+{
+	margin-top:-20px;
+	position:relative;
+}
+
+.def-a
+{
+	color: #1421c1;
+}
+.left-side
+{
+	margin-left:100px !important;
+}
+.clear-space
+{
+	margin-top:15px;
+}
+
+a .card-body
+{
+	color: #000;
+	text-decoration: none;
+}
+.card
+{
+	background-color:#fff !important;
+}
+
+a.card-title
+{
+	color:#ccc;
+	text-decoration: none;
+}
+a.card-title:hover,a .card-body:hover
+{
+	color:#fff;
+}
+
+a
+{
+	text-decoration: none !important;
+}
+.price-tag
+{
+	font-size:12px !important;
+}
+.top-footer
+{
+	background-color:#fff;
+	width:100%;
+	padding:20px;
+}
+
+
+.main-footer
+{
+	background-color:#000;
+	width:100%;
+	padding:20px 0px 0px 30px;
+}
+.mid-height
+{
+	height:20em;
+	padding:0px 30px;
+	padding-top:160px;
+}
+.price-area
+{
+	background-color: #fff;
+	padding: 20px 30px;
+}
+
+h5 .title
+{
+	background-color:orange !important;
+	padding:20px !important;
+}
+
+footer
+{
+	background-color: #009631;
+	padding: 20px;
+	color: #fff !important;
+}
+footer p
+{
+	color: #fff !important;
+}
+.card p
+{
+	padding: 0px 20px;
+}
